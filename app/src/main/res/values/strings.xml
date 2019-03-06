@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">home</string>
+    <string name="title_activity_connect">connect</string>
+    <string name="title_activity_account">account</string>
+</resources>
